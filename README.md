@@ -15,7 +15,7 @@ C'est un ensemble de règles et de principes qui permettent de décrire une logi
 - [Prototype](/Creational%20Patterns/Prototype.md)
 
 ### Structural Patterns (Patrons structurels)
-- [Adapter](/Structural%20Patterns/Adapter.md)
+- [Adapter](/Structural%20Patterns/Adapter.md) ✅
 - [Bridge](/Structural%20Patterns/Bridge.md)
 - [Composite](/Structural%20Patterns/Composite.md)
 - [Decorator](/Structural%20Patterns/Decorator.md)
@@ -36,6 +36,9 @@ C'est un ensemble de règles et de principes qui permettent de décrire une logi
 - [Template](/Behavioral%20Patterns/Template.md)
 - [Visitor](/Behavioral%20Patterns/Visitor.md)
 
+### Annexes
+- **<a id="client">Client</a>**: Un objet est un client lorsqu’il a besoin d’appeler votre code.
+- 
 #### Contributing 🤝
 
 Bug reports and Pull Requests are welcome 👋🏽  
